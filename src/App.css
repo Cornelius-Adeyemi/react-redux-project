@@ -1,0 +1,15 @@
+.block{
+  display:block;
+  margin: auto;
+}
+
+
+.main{
+  background-color: orange;
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+}
